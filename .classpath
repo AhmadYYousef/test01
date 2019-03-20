@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Balana00/balana/balana/modules/balana-core/target/org.wso2.balana-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Work00/target/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Balana.testt/src/test/java/jar/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Balana00/balana/balana/xercesImpl-2.8.1.wso2v2.jar"/>
+	<classpathentry kind="lib" path="/Balana00/TestKMarket/TestKMarket/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
